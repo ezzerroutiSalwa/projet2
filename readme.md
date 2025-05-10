@@ -11,6 +11,8 @@ Create a web-based application using **Streamlit** to recognize handwritten digi
 ## 👥 Team Members
 - AFAF Hajar
 - EZZERROUTI Salwa
+- SSSSSSSSSSS
+  
 
 ## 🎓 Project Supervisor
 This project was carried out under the supervision of **Professor Mahmoudi Abdelhak**, Faculty of Sciences.
